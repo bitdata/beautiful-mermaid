@@ -11,7 +11,7 @@ Ultra-fast, fully themeable, zero DOM dependencies. Built for the AI era.
 [![npm version](https://img.shields.io/npm/v/beautiful-mermaid.svg)](https://www.npmjs.com/package/beautiful-mermaid)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[**Live Demo & Samples**](https://agents.craft.do/mermaid)
+[**Live Demo & Samples**](https://agents.craft.do/mermaid) · [**中文说明**](README_CN.md)
 
 **[→ Use it live in Craft Agents](https://agents.craft.do)**
 
@@ -56,6 +56,16 @@ bun add beautiful-mermaid
 # or
 pnpm add beautiful-mermaid
 ```
+
+## Local Playground
+
+Want to try beautiful-mermaid without writing code? From this repo, run:
+
+```bash
+bun run playground
+```
+
+Then open **http://localhost:3333** in your browser. Paste Mermaid source, switch between SVG and ASCII output, pick from 15 themes, and copy the result with one click. Your input and settings are saved in the browser.
 
 ## Quick Start
 
